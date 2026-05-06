@@ -1,0 +1,42 @@
+{
+  "feature_names": [
+    "num__age",
+    "num__trestbps",
+    "num__chol",
+    "num__thalach",
+    "num__oldpeak",
+    "num__ca",
+    "cat__cp_1.0",
+    "cat__cp_2.0",
+    "cat__cp_3.0",
+    "cat__cp_4.0",
+    "cat__restecg_0.0",
+    "cat__restecg_1.0",
+    "cat__restecg_2.0",
+    "cat__slope_1.0",
+    "cat__slope_2.0",
+    "cat__slope_3.0",
+    "cat__thal_3.0",
+    "cat__thal_6.0",
+    "cat__thal_7.0",
+    "remainder__sex",
+    "remainder__fbs",
+    "remainder__exang"
+  ],
+  "sample_patient": {
+    "age": 41.0,
+    "sex": 1.0,
+    "cp": 2.0,
+    "trestbps": 120.0,
+    "chol": 157.0,
+    "fbs": 0.0,
+    "restecg": 0.0,
+    "thalach": 182.0,
+    "exang": 0.0,
+    "oldpeak": 0.0,
+    "slope": 1.0,
+    "ca": 0.0,
+    "thal": 3.0
+  },
+  "target_sample": 0
+}
